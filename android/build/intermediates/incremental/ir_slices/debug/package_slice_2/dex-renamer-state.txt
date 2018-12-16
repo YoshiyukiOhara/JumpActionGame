@@ -1,0 +1,4 @@
+#Sun Dec 16 17:34:05 JST 2018
+base.0=/Users/Yoshi/Documents/libGDX/JumpActionGame/android/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
